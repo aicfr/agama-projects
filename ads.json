@@ -1,1 +1,13 @@
-{}
+{
+    "wafl": {
+        "projectName": "wafl",
+        "description": "wafl",
+        "type": "community",
+        "author": "aicfr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/aicfr/agama-projects",
+        "githubUri": "https://github.com/aicfr/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1685018220389"
+    }
+}
